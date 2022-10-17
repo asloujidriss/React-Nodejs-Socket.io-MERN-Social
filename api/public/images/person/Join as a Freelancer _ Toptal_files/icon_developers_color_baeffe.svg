@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <rect width="30" height="30" fill="none"/>
+  <rect x="11.02786" y="14.99994" width="8.94427" height="1.00012"
+        transform="translate(-5.29543 22.43181) rotate(-63.43495)" fill="#204ecf"/>
+  <polygon points="9.146 23.854 0.293 15 9.146 6.146 9.854 6.854 1.707 15 9.854 23.146 9.146 23.854"
+           fill="#204ecf"/>
+  <polygon points="20.854 23.854 20.146 23.146 28.293 15 20.146 6.854 20.854 6.146 29.707 15 20.854 23.854"
+           fill="#204ecf"/>
+</svg>

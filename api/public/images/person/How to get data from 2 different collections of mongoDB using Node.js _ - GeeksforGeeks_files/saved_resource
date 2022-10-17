@@ -1,0 +1,48 @@
+
+var ftGUID_5511656="517380CC9AB82F";
+var ftConfID_5511656="0";
+var ftParams_5511656="ftOBA=1&ft_domain=www.geeksforgeeks.org&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.geeksforgeeks.org%2F&gdpr=0&us_privacy=${US_PRIVACY}&cachebuster=528985.4134572059&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_5511656="";
+var ftCustom_5511656="";
+var ftSection_5511656="";
+var ftSegment_5511656="aig6";
+var ftSegmentList_5511656=[{s:'aig6'}];
+var ftRuleMatch_5511656="0";
+var ftTimestamp_5511656="1648207685";
+var ftGeoC2_5511656="tn";
+var ftGeoState_5511656="11";
+var ftGeoCity_5511656="tunis";
+var ftISP_5511656="ooredoo tunisia";
+var ftSpeed_5511656="mobile";
+var ftDMA_5511656="-1";
+var ftLong_5511656="10.22";
+var ftLat_5511656="36.83";
+var ftPostal_5511656="1002";
+var ftTimeZone_5511656="100";
+var ftMobileCarrier_5511656="ooredoo";
+var ftImp5511656 = {};
+ftImp5511656.privacy = "x";
+ftImp5511656.guidAge = "24";
+ftImp5511656.impID = "9FE1914F-67BB-0A44-3BD7-B7D5C64A3959";
+ftImp5511656.duid = "FT:517380CC9AB82F";
+
+ftImp5511656.ft_tpplid = "";
+ftImp5511656.ft_c = {};
+ftImp5511656.gdpr = "0";
+ftImp5511656.gdpr_consent = "";
+ftImp5511656.gdpr_pd = "";
+ftImp5511656.oob_consent = "";
+ftImp5511656.gdprStoredConsent = "";
+ftImp5511656.us_privacy = "!!US_PRIVACY!";
+
+ftImp5511656.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_5511656') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/551/5511656/3783276/js/j-5511656-3783276.js";
+    js.id = "ftscript_m5511656";
+    tag.parentNode.insertBefore(js, tag);
+}());
